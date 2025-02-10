@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Ai_Resume_copilot**
 
-- 🌱 I’m currently learning **Next.js,Shadcn ui**
+- 🌱 I’m currently learning **Full Stack Technologies**
 
 - 👯 I’m looking to collaborate on [StudyNotion](https://study-notion-jet-iota.vercel.app/)
 
